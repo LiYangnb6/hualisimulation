@@ -16,8 +16,8 @@
           "width": 35,
           "height": 20,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -30,8 +30,8 @@
           "width": 35,
           "height": 20,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       }
@@ -50,8 +50,8 @@
           "width": 40,
           "height": 40,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -64,8 +64,8 @@
           "width": 40,
           "height": 40,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -78,8 +78,8 @@
           "width": 40,
           "height": 25,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       }
@@ -98,10 +98,11 @@
           "width": 40,
           "height": 65,
           "points": [
-            6,
-            10,
-            16,
-            24
+            {"angle": 6, "status": "out"},
+            {"angle": 10, "status": "out"},
+            {"angle": 16, "status": "out"},
+            {"angle": 24, "status": "in"}
+
           ]
         }
       },
@@ -114,8 +115,8 @@
           "width": 40,
           "height": 65,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       }
@@ -134,8 +135,8 @@
           "width": 40,
           "height": 40,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -148,8 +149,8 @@
           "width": 40,
           "height": 40,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -162,9 +163,10 @@
           "width": 40,
           "height": 40,
           "points": [
-            6,
-            10,
-            24
+            {"angle": 6, "status": "out"},
+            {"angle": 10, "status": "out"},
+            {"angle": 24, "status": "in"}
+
           ]
         }
       }
@@ -183,10 +185,11 @@
           "width": 70,
           "height": 30,
           "points": [
-            0,
-            8,
-            16,
-            24
+            {"angle": 0, "status": "out"},
+            {"angle": 8, "status": "out"},
+            {"angle": 16, "status": "in"},
+            {"angle": 24, "status": "in"}
+
           ]
         }
       },
@@ -199,9 +202,10 @@
           "width": 40,
           "height": 40,
           "points": [
-            8,
-            16,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 16, "status": "out"},
+            {"angle": 24, "status": "in"}
+
           ]
         }
       },
@@ -214,9 +218,9 @@
           "width": 40,
           "height": 40,
           "points": [
-            8,
-            16,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 16, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       }
@@ -235,8 +239,8 @@
           "width": 70,
           "height": 30,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -249,8 +253,8 @@
           "width": 70,
           "height": 30,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -263,8 +267,8 @@
           "width": 70,
           "height": 30,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -277,8 +281,8 @@
           "width": 70,
           "height": 30,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -291,8 +295,8 @@
           "width": 70,
           "height": 30,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -305,8 +309,8 @@
           "width": 40,
           "height": 65,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -319,8 +323,8 @@
           "width": 70,
           "height": 30,
           "points": [
-            8,
-            24
+            {"angle": 8, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -333,8 +337,8 @@
           "width": 50,
           "height": 80,
           "points": [
-            6,
-            26
+            {"angle": 6, "status": "out"},
+            {"angle": 26, "status": "in"}
           ]
         }
       }
@@ -353,11 +357,12 @@
           "width": 80,
           "height": 95,
           "points": [
-            2,
-            5,
-            8,
-            11,
-            24
+            {"angle": 2, "status": "out"},
+            {"angle": 5, "status": "out"},
+            {"angle": 8, "status": "out"},
+            {"angle": 11, "status": "out"},
+            {"angle": 24, "status": "in"}
+
           ]
         }
       },
@@ -370,11 +375,11 @@
           "width": 80,
           "height": 95,
           "points": [
-            2,
-            5,
-            8,
-            11,
-            24
+            {"angle": 2, "status": "out"},
+            {"angle": 5, "status": "out"},
+            {"angle": 8, "status": "out"},
+            {"angle": 11, "status": "out"},
+            {"angle": 24, "status": "in"}
           ]
         }
       },
@@ -387,11 +392,12 @@
           "width": 110,
           "height": 165,
           "points": [
-            7,
-            8,
-            9,
-            12,
-            22
+            {"angle": 7, "status": "out"},
+            {"angle": 8, "status": "out"},
+            {"angle": 9, "status": "out"},
+            {"angle": 12, "status": "out"},
+            {"angle": 22, "status": "in"}
+
           ]
         }
       }
